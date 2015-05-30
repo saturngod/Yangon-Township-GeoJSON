@@ -7436,7 +7436,8 @@
         "stroke-width": 1,
         "stroke-opacity": 1,
         "fill": "#550000",
-        "fill-opacity": 0.2
+        "fill-opacity": 0.2,
+	"name" : "Insein"
       },
       "geometry": {
         "type": "Polygon",
